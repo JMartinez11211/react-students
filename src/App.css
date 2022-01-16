@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+table {
+  border: .2rem solid black;
+  border-collapse: collapse;
+}
+
+ td {
+  border: .1rem solid;
+  
+}
+th{
+  border:solid
+}
+
+.bioTable{
+  max-width: 50rem;
+}
+
+.scoretable{
+  border-collapse: collapse;
+}
